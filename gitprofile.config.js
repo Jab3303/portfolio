@@ -90,18 +90,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Professional Statement',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Hello, my name is Jose Beltran, I am a passionate person when it comes to cybersecurity, and I enjoy solving these problems for others. I can be a great addition to any organization as I am driven to solve or at the least contribute in a solution.',
+      imageUrl: '',
+      link: '',
     },
     {
-      title: 'Project Name',
+      title: 'NIST Incident Response',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        '',
+      imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
+      link: 'https://docs.google.com/document/d/1b0ZrppOc25cBYoZFXMA8Vx-ewjfeRlmsrvBn7HsdOi4/edit?usp=drive_link',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
