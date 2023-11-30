@@ -109,6 +109,12 @@ const config = {
       imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
       link: 'https://docs.google.com/document/d/1l0NcymSgjpodDFASQdOAK9V-RJj9K1id/edit?usp=drive_link&ouid=113488905775216712096&rtpof=true&sd=true',
     },
+    {
+      title: 'Secuirty Audit',
+      description: '',
+      imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
+      link: 'https://docs.google.com/document/d/158k9o1k0GOeVt0lbFrMEYJwW3Udp7HsO/edit?usp=drive_link&ouid=113488905775216712096&rtpof=true&sd=true',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
  /* blog: {
