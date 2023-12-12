@@ -40,7 +40,7 @@ const config = {
     'AWS Basic',
     'MySQL',
     'Git',
-    '',
+    'SQL Injection',
   ],
   experiences: [
     {
@@ -50,22 +50,27 @@ const config = {
       to: 'Present',
       companyLink: '',
     },
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'AWS Academy Cloud Foundations',
+      body: 'Earners of this badge have taken the AWS Academy Cloud Foundations course.',
+      year: 'Dec 2023',
+      link: 'https://www.credly.com/badges/acf9aac9-7602-4058-ae95-3ee3ab156087/public_url'
     },
-  ], */
+     {
+      name: 'ISC2 Candidate',
+      body: 'SC2 Candidates are individuals pursuing or considering a cybersecurity certification. To become a Candidate, the individual must apply online and provide minimum identifying information, as well as affirm that they will abide by the ISC2 Code of Ethics and Privacy Policy.',
+      year: 'Aug 2023',
+      link: 'https://www.credly.com/badges/4307da5a-6389-4bff-93e7-99c1e60f7a7a/public_url'
+    },
+    {
+      name: 'Introduction to Cisco Packet Tracer',
+      body: 'Cisco verifies the earner of this badge has knowledge and skills to create digital models of IP Networks and IoT Systems using Cisco Packet Tracer.',
+      year: 'Sep 2023',
+      link: 'https://www.credly.com/badges/5a0b1cf1-8c70-4c6f-baf9-6ca6a68e866b/public_url'
+    },
+  ], 
   education: [
     {
       institution: 'East Carolina University',
