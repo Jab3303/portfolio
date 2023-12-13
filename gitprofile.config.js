@@ -133,7 +133,7 @@ const config = {
     },
      {
       title: 'Elevator Pitch',
-      description: 'Get to know a little about me',
+      description: 'Get to know a little about me and my education!',
       imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
       link: 'https://drive.google.com/file/d/1hhwn857SfR36NvjGLtCRO7WmjD6gtbJu/view?usp=sharing ',
     },
