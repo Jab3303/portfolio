@@ -39,7 +39,6 @@ const config = {
     'ISC2',
     'AWS Basic',
     'MySQL',
-    'Git',
     'SQL Injection',
   ],
   experiences: [
@@ -131,6 +130,12 @@ const config = {
       description: 'Total Earned: 3',
       imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
       link: 'https://docs.google.com/document/d/1PjkWlxgq_fDSg0D1xjqY80cF-zBGTJxJwHzkdWN_A6c/edit?usp=sharing',
+    },
+     {
+      title: 'Elevator Pitch',
+      description: 'Get to know a little about me',
+      imageUrl: 'https://th.bing.com/th/id/OIP.Mt2V-oQ4ih6rzy7-RByEAQHaHg?rs=1&pid=ImgDetMain',
+      link: 'https://drive.google.com/file/d/1hhwn857SfR36NvjGLtCRO7WmjD6gtbJu/view?usp=sharing ',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
